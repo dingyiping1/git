@@ -42,6 +42,4 @@ test22
 
 release-15 test24
 
-release test26
-
 release-15 test26
